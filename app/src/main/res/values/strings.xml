@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DotaQuiz</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="question_text1">Цель игры Дота2 это сломать вражеский трон?</string>
+    <string name="question_text2">У сфа может быть бесконечно душ?</string>
+    <string name="question_text3">Может ли у рубика быть 2 способности без аганима?</string>
+    <string name="question_text4">У тини 3 формы?</string>
+    <string name="question_text5">У инвокера 12 скиллов?</string>
+    <string name="question_text6">Мир доты создал енигма?</string>
+
+    <string name="correct">Правильно</string>
+    <string name="incorrect">Неправильно</string>
+    <string name="next">→</string>
+    <string name="prev">←</string>
+
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="enter">Войти</string>
+    <string name="register">Зарегистрироваться</string>
+</resources>
